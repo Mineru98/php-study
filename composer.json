@@ -1,0 +1,15 @@
+{
+  "name": "mineru/php-study",
+  "autoload": {
+    "psr-4": {
+      "Mineru\\PhpStudy\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "iamiks",
+      "email": "rmstjr1030@naver.com"
+    }
+  ],
+  "require": {}
+}
